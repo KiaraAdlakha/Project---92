@@ -1,0 +1,39 @@
+body
+{
+    background-color: crimson;
+}
+h1{
+    color: Black;
+}
+.div_1,.div_2
+{
+    background-color: white;
+    padding:10px;
+    float: none;
+    border-radius: 15px;
+    width: 50%;
+}
+.player_name1,.player_name2
+{
+display: inline-block;
+margin-left: 10px;
+margin-right: 10px;
+}
+#no_1,#no_2
+{
+    width: 50%;
+}
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    border-top:deeppink solid 10px;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#player1_name,#player2_name
+{
+    display: inline-block;
+    margin-left: 20px;
+}
